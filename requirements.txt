@@ -1,0 +1,5 @@
+# Sugerido automaticamente a partir dos imports. Fixar versões com pip freeze.
+openpyxl
+pandas
+pdfplumber
+python-dotenv
