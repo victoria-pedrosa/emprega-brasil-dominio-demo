@@ -1,6 +1,6 @@
-# Emprega Brasil Dominio
+# Demonstração — Cruzamento de consignado Emprega Brasil com a folha
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de cruzamento de consignado Emprega Brasil com a folha — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 Cruzar os dados de empréstimo consignado (Emprega Brasil) com a folha da Domínio era manual.
